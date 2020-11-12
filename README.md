@@ -1,1 +1,10 @@
-# Kang_Y_Rock_Paper_Scissors
+# Rock Paper Scissors -
+This is a generic description
+
+## Usage
+
+
+
+## License
+MIT
+P
