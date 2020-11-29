@@ -11,7 +11,7 @@ Clone this project, <kbd>cd</kbd> to your directory/download, and run the game.p
 Same as the classic game:
 Paper convers Rock Scissors cuts Paper Rock smashes Scissors
 Choose your weapon wisely!
-Built with Python 3
+Built with [Python 3](https://wiki.python.org/moin/BeginnersGuide)
 Enjoy!
 
 ## License
